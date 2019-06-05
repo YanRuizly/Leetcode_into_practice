@@ -2,7 +2,6 @@ package LeetCode.Top100;
 
 import java.util.Queue;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
 
 /**
  *  反转二叉树

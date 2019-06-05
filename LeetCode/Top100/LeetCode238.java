@@ -5,7 +5,7 @@ package LeetCode.Top100;
  *   除自身以外数组的乘积
  *   请不要使用除法，且在 O(n) 时间复杂度内完成此题。
  */
-public class LeetCode236 {
+public class LeetCode238 {
     //[a，b，c，d，e]
     //从左乘一遍得到[1, a, ab, abc, abcd]
     //从右乘一遍得到[bcde,acde,abde,abce,abcd]
